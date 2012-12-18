@@ -1,6 +1,10 @@
 Solarized - OS X 10.7+ Terminal.App color theme
 ==============================================
 
+This repo is a fork of https://github.com/tomislav/osx-lion-terminal.app-colors-solarized
+
+The only difference is that we have set the default font to Source Code. [Download and install](https://github.com/mohangk/progging_fonts.git) the font before using the settings.
+
 Original Solarized color scheme developed by Ethan Schoonover <es@ethanschoonover.com>
 
 Adapted for OS X 10.7+ Terminal.app by Tomislav Filipčić <tomislav@vault42.org>
